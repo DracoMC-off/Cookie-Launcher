@@ -1,8 +1,8 @@
 {
-    "name": "Cookie-Launcher",
-    "preductname": "Cookie Launcher",
+    "name": "Cookies-Launcher",
+    "preductname": "Cookies Launcher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Cookie SMP/RP",
+    "description": "Launcher Mincraft pour le serveur Cookies SMP/RP",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, DracoMC, Inc.",
